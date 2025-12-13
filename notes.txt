@@ -1,0 +1,23 @@
+CHAPTER 1:
+1. VARIABLES: 
+     a) name of a memory location which stores somedata
+     b) they are case sensitive means a!=A 
+     c) name of the varibles should start with alphabet or underscore(_) else it will show error
+     d) no other symbol can be used
+     e) we can also update the varibale cause it is not a fixed value
+     f) data types: char(1 bytes), usngined char(1), int(2), unsigned int(2 bytes), short int(2 bytes),float(4 bytes)
+     g) constant vlaues that dont change are of 3 types 
+         1) integer constants(1,2,3,...)
+         2) real constants(1.0,2.0,....)
+         3) character constants('a','b','#')
+     h) comments are done by //(for signle line)  and /* - */ for multiple lines
+     i) OUTPUT CASES
+        1) printf(" age is %d", age);  (integers)
+        2) printf(" value of pi is %f",pi); (real numbers)
+        3) printf(" star looks like this %c",star); (characters)
+    j)  INPUT : scanf("%f",&age)
+    k) INSTRUCTIONS: TYPES DECLARATION INST. (DECLARE VARIABLE BEFORE USING IT )
+       VALID: int a =22; int b = a; int c = b+1; int d =1 ,e;
+    l) MODULAR OPERATOR: returns remainder for int eg 3%2=1
+    m)
+         
